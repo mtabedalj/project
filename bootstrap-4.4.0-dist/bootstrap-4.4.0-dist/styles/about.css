@@ -1,0 +1,10 @@
+
+body{
+  background-image: url("./../assets/a.jpg");
+
+}
+.row{
+text-align: center;
+margin-left: 200px;
+margin-top: 200px;
+}
